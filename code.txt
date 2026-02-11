@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lilah Elliot – Resume Expert Portfolio</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4B6CB7;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    header p {
+      font-size: 1.1em;
+      margin-top: 10px;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #4B6CB7;
+      margin-bottom: 15px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    a {
+      color: #4B6CB7;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .portfolio-item {
+      margin-bottom: 15px;
+    }
+    footer {
+      background-color: #4B6CB7;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lilah Elliot</h1>
+    <p>Professional Resume Writer & Career Strategist</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I’m <strong>Lilah Elliot</strong>, a professional resume writer and career strategist with extensive experience helping clients elevate their professional presence and land interviews in competitive markets. I specialize in transforming resumes into powerful personal branding tools that clearly articulate skills, achievements, and career goals.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li><strong>Resume Writing & Optimization:</strong> Tailored, ATS-friendly resumes highlighting accomplishments and career trajectory.</li>
+      <li><strong>LinkedIn Profile Optimization:</strong> Profiles designed to attract recruiters and maximize visibility.</li>
+      <li><strong>Cover Letter Development:</strong> Compelling cover letters that communicate your story and value.</li>
+      <li><strong>Career Branding:</strong> Strategic positioning for executives, professionals, and career changers.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Portfolio Highlights</h2>
+    <div class="portfolio-item"><a href="#" target="_blank">Executive Healthcare Resume</a></div>
+    <div class="portfolio-item"><a href="#" target="_blank">Senior Sales & Marketing Resume</a></div>
+    <div class="portfolio-item"><a href="#" target="_blank">Digital Health & Strategy Leader Resume</a></div>
+    <div class="portfolio-item"><a href="#" target="_blank">Entry-to-Mid Level Professional Resume</a></div>
+  </section>
+
+  <section>
+    <h2>Client Testimonials</h2>
+    <p>"Lilah’s expertise completely transformed my resume. I started getting interviews within weeks!" – Jane D., Healthcare Executive</p>
+    <p>"Her approach is professional, personalized, and highly effective." – Mark T., Tech Sales Manager</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:lilah.resume@gmail.com">lilah.resume@gmail.com</a></p>
+    <p>Portfolio / Website: <a href="#">Insert link here</a></p>
+  </section>
+
+  <footer>
+    &copy; 2026 Lilah Elliot – All Rights Reserved
+  </footer>
+</body>
+</html>
